@@ -1,9 +1,9 @@
-package com.BikkadIT.controller;
+package com.BikkadIT.controllerTest;
 
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class EmployeeController {
+public class EmployeeControllerTest {
 	public void addEmployee() {
 		
 	}
